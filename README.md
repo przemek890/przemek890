@@ -31,6 +31,7 @@
     <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/512/swift.png" alt="Swift" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/color/512/bash.png" alt="Bash" width="40" height="40"/></a>
     <a href="https://cmake.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/480px-Cmake.svg.png" alt="CMake" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="120" height="40"/></a>
   </p>
 
   <h4>Frameworks and Libraries:</h4>
