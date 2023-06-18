@@ -3,7 +3,8 @@
 <body>
   <div>
     <blockquote>
-      <h2 align="left">✉️ : przemek.899@wp.pl</h2>
+      <h2 align="left"> ✉️ :</h2>
+        <a href="mailto:przemek.899@wp.pl">✉️ : przemek.899@wp.pl</a>
     </blockquote>
     <blockquote>
       <h2 align="left">
@@ -14,9 +15,7 @@
       </h2>
     </blockquote>
   </div>
-
-  <h3>Programming languages:</h3>
-
+  
   <h4>Familiarity:</h4>
   <p align="left">
     <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
