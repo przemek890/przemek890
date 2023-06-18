@@ -5,7 +5,7 @@
 </head> -->
 <body>
   <div>
-    <h2 align="center">How to reach me: przemek.899@wp.pl</h2>
+    <h2 align="left">How to reach me: przemek.899@wp.pl</h2>
   </div>
 
   <h3>Programming languages:</h3>
