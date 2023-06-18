@@ -7,8 +7,9 @@
     </blockquote>
     <blockquote>
       <h2 align="left">
+        "CV:"
         <a href="https://github.com/przemek890/przemek890/blob/main/Przemys%C5%82aw_Janiszewski_CV.pdf">
-          "📄:" CV
+          📄
         </a>
       </h2>
     </blockquote>
