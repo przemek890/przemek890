@@ -43,13 +43,14 @@
     <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/></a>
     <a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_static/pygame_lofi.png" alt="Pygame" width="120" height="40"/></a>
     <a href="https://www.sfml-dev.org/"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" alt="SFML" width="40" height="40"/></a>
+    <a href="https://www.opengl.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/512px-OpenGL_logo.svg.png" alt="OpenGL" width="80" height="40"/></a>
   </p>
 
   <h4>Tools:</h4>
 <p align="left">
       <a href="https://www.apple.com"><img src="https://img.icons8.com/officel/512/mac-os.png" alt="MacOS" width="40" height="40"/>
       <a href="https://www.linux.org"><img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/>
-      <a hre="https://www.microsoft.com/en-us/software-download/windows11"><img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40" height="40"/>
+      <a hre="https://www.microsoft.com/en-us/software-download"><img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40" height="40"/>
       <a href="https://jupyter.org/"><img src="https://img.icons8.com/fluency/512/jupyter.png" alt="Jupyter" width="40" height="40"/>
       <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/>
       <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/512/docker.png" alt="DOCKER" width="40" height="40"/>
@@ -58,6 +59,7 @@
       <a href="https://www.virtualbox.org/"><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VirtualBox" width="40" height="40"/>
       <a href="https://www.wireshark.org/"><img src="https://img.icons8.com/?size=512&id=rOHcpTUtCTjr&format=png" alt="WIRESHARK" width="40" height="40"/>  
       <a href="https://www.uml.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/400px-UML_logo.svg.png" alt="UML" width="40" height="40"/></a>
+      <a href="https://www.microsoft.com/pl-pl/microsoft-365"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/512px-Microsoft_365_%282022%29.svg.png" alt="Office 365" width="40" height="40"/></a>
 </p>
 
 </body>
