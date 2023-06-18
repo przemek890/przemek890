@@ -5,7 +5,7 @@
 </head> -->
 <body>
   <div>
-    <h2 align="left">✉️: przemek.899@wp.pl</h2>
+    <h2 align="left">✉️ : przemek.899@wp.pl</h2>
   </div>
 
   <h3>Programming languages:</h3>
