@@ -44,11 +44,9 @@
     <a href="https://www.sfml-dev.org/"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" alt="SFML" width="40" height="40"/></a>
   </p>
 
-
-
   <h4>Tools:</h4>
 <p align="left">
-      <a href="  https://www.apple.com"><img src="https://img.icons8.com/ios/512/mac-os--v1.png" alt="MacOS" width="40" height="40"/>
+      <a href="  https://www.apple.com"><img src="https://img.icons8.com/officel/512/mac-os.png" alt="MacOS" width="40" height="40"/>
       <a href="https://www.linux.org"><img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/>
       <a hre="https://www.microsoft.com/pl-pl/software-download/windows10"><img src="https://img.icons8.com/color/512/windows-10.png" alt="Windows" width="40" height="40"/>
       <a href=""><img src="https://img.icons8.com/?size=512&id=_blXzVtROzHQ&format=png" alt="CENTOS" width="40" height="40"/>
