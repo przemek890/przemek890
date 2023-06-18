@@ -15,7 +15,7 @@
   <h4>Familiarity:</h4>
   <p align="left">
     <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
-    <a href="https://www.iso-9899.info/wiki/Main_Page/"><img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/></a>
+    <a href="https://www.learn-c.org/"><img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/></a>
     <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="Python" width="40" height="40"/></a>
     <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/512/mysql.png" alt="MySQL" width="40" height="40"/></a>
   </p>
