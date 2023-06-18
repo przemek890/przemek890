@@ -36,7 +36,7 @@
     <a href="https://seaborn.pydata.org/citing.html"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="SEABORN" width="40" height="40"/></a>
     <a href="https://docs.python.org/3/library/tkinter.html"><img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" alt="Tkinter" width="40" height="40"/></a>
     <a href="https://matplotlib.org/stable/gallery/misc/logos2.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/></a>
-    <a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_static/pygame_lofi.png" alt="Pygame" width="40" height="40"/></a>
+    <a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_static/pygame_lofi.png" alt="Pygame" width="120" height="40"/></a>
   </p>
 
 </body>
