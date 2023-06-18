@@ -3,18 +3,18 @@
 <body>
   <div>
     <blockquote>
-      <h2 align="left">
+      <h3 align="left">
         ✉️ :
         <a href="mailto:przemek.899@wp.pl"> przemek.899@wp.pl</a>
-      </h2>
+      </h3>
     </blockquote>
     <blockquote>
-      <h2 align="left">
+      <h3 align="left">
         📄 :
         <a href="https://github.com/przemek890/przemek890/blob/main/Przemys%C5%82aw_Janiszewski_CV.pdf">
           CV
         </a>
-      </h2>
+      </h3>
     </blockquote>
   </div>
   
