@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html>
-<!-- <head>
-  <title>My Website</title>
-</head> -->
+<head>
+  <title>Hello 👋</title>
+</head>
 <body>
   <div>
     <blockquote>
       <h2 align="left">✉️ : przemek.899@wp.pl</h2>
-    </blockquote>blockquote>
+    </blockquote>
+    <blockquote>
+      <h2 align="left">
+        <a href="https://github.com/przemek890/przemek890/blob/main/Przemys%C5%82aw_Janiszewski_CV.pdf">
+          📄 : CV
+        </a>
+      </h2>
+    </blockquote>
   </div>
 
   <h3>Programming languages:</h3>
