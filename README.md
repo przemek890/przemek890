@@ -1,20 +1,42 @@
-### Programming languages:
-- ![C++](https://img.icons8.com/color/512/c-plus-plus-logo.png)
-- ![C](https://img.icons8.com/color/512/c-programming.png)
-- ![PYTHON](https://img.icons8.com/color/512/python.png)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <div>
+    <h1 align="center">How to reach me: przemek.899@wp.pl</h1>
+  </div>
 
-### Frameworks & Libraries:
-- ![OpenGL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/512px-OpenGL_logo.svg.png)
-- !SFML](https://www.sfml-dev.org/download/goodies/sfml-icon-small.png)
-- ![NumPy](https://img.icons8.com/color/512/numpy.png)
-- ![Pandas](https://img.icons8.com/color/512/pandas.png)
-- ![Tensorflow](https://img.icons8.com/color/512/tensorflow.png)
-- ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png)
+  <h3>Programming languages:</h3>
 
-### Basic:
+  <h4>Familiarity:</h4>
+  <p align="left">
+    <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
+    <a href="https://www.iso-9899.info/wiki/Main_Page/"><img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/></a>
+    <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="Python" width="40" height="40"/></a>
+    <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/512/mysql.png" alt="MySQL" width="40" height="40"/></a>
+  </p>
 
-- ![Swift](https://img.icons8.com/color/512/swift.png)
-- ![BASH](https://img.icons8.com/color/512/bash.png)
+  <h4>Basic:</h4>
+  <p align="left">
+    <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/512/swift.png" alt="Swift" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/color/512/bash.png" alt="Bash" width="40" height="40"/></a>
+    <a href="https://www.uml.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/400px-UML_logo.svg.png" alt="UML" width="40" height="40"/></a>
+    <a href="https://cmake.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/480px-Cmake.svg.png" alt="CMake" width="40" height="40"/></a>
+  </p>
+
+  <h4>Frameworks & Libraries:</h4>
+  <p align="left">
+    <a href="https://numpy.org/"><img src="https://img.icons8.com/color/512/numpy.png" alt="NUMPY" width="40" height="40"/></a>
+    <a href="https://pandas.pydata.org/"><img src="https://img.icons8.com/color/512/pandas.png" alt="PANDAS" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org/?gclid=CjwKCAiA8OmdBhAgEiwAShr40yYq2CtQm7XLbSXfvl6n_RLorRRXgYCyOsoW2f0bWBKJFp2nyVxk-RoCHNoQAvD_BwE"><img src="https://img.icons8.com/color/512/tensorflow.png" alt="TENSORFLOW" width="40" height="40"/></a>
+    <a href="https://seaborn.pydata.org/citing.html"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="SEABORN" width="80" height="80"/></a>
+    <a href="https://docs.python.org/3/library/tkinter.html"><img src="https://static.javatpoint.com/python/images/tkinter-tutorial.png" alt="Tkinter" width="80" height="80"/></a>
+    <a href="https://matplotlib.org/stable/gallery/misc/logos2.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="MATPLOTLIB" width="40" height="40"/></a>
+  </p>
+
+</body>
+</html>
 
   
