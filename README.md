@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Hello 👋</title>
-</head>
 <body>
   <div>
     <blockquote>
@@ -11,7 +8,7 @@
     <blockquote>
       <h2 align="left">
         <a href="https://github.com/przemek890/przemek890/blob/main/Przemys%C5%82aw_Janiszewski_CV.pdf">
-          📄 : CV
+          "📄:" CV
         </a>
       </h2>
     </blockquote>
