@@ -3,8 +3,10 @@
 <body>
   <div>
     <blockquote>
-      <h2 align="left"> ✉️ :</h2>
-        <a href="mailto:przemek.899@wp.pl">✉️ : przemek.899@wp.pl</a>
+      <h2 align="left">
+        ✉️ :
+        <a href="mailto:przemek.899@wp.pl"> przemek.899@wp.pl</a>
+      </h2>
     </blockquote>
     <blockquote>
       <h2 align="left">
