@@ -69,7 +69,7 @@
 <h2 align="left">
         SUMMARY:
 </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,stars" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent" alt="Stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=pug,shell,java,html,css" alt="Top Langs">
   </a>
