@@ -66,10 +66,10 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=w1atrak&show_icons=true&theme=transparent&hide=issues,stars" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,stars" alt="Stats">
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1atrak&layout=compact&hide=pug,shell,java,html,css" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=pug,shell,java,html,css" alt="Top Langs">
   </a>
 </body>
 </html>
