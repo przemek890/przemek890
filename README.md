@@ -66,6 +66,9 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
   </p>
 
+<h2 align="left">
+        SUMMARY:
+</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,stars" alt="Stats">
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
