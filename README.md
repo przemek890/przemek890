@@ -71,9 +71,9 @@
     <h2 align="left">SUMMARY:</h2>
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent" alt="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,PRs" alt="Stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=pug,shell,java,html,css" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake" alt="Top Langs">
     </a>
   </div>
 </div>
