@@ -77,9 +77,9 @@
   </div>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=dark&hide=issues,prs,contribs" alt="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=dark" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs">
     </a>
   </div>
 </div>
