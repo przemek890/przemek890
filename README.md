@@ -76,15 +76,13 @@
     <h2 align="center">SUMMARY:</h2>
   </div>
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,prs,contribs" alt="Stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake" alt="Top Langs">
     </a>
   </div>
 </div>
-
-
 
 </body>
 </html>
