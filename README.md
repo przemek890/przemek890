@@ -5,9 +5,9 @@
       HI THERE 👋
   </h2>
   <div>
-      <h3 align="left">
-        Contact
-      </h3>
+      <h4 align="left">
+        Contact:
+      </h4>
     <blockquote>
       <h3 align="left">
         ✉️ :
