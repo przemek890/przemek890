@@ -72,18 +72,17 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
   </p>
 
+<div style="flex: 1;">
+    <h2 align="center">SUMMARY:</h2>
+  </div>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
-    <div style="display: flex;">
-      <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" style="max-height: 100vh; width: auto;">
-      </div>
-      <div style="flex: 1;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs" style="max-height: 100vh; width: auto;">
-        </a>
-      </div>
-    </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats">
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs">
+    </a>
   </div>
 </div>
 
