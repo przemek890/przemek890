@@ -72,15 +72,18 @@
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
   </p>
 
-  <div style="flex: 1;">
-    <h2 align="center">SUMMARY:</h2>
-  </div>
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs">
-    </a>
+    <div style="display: flex; flex-direction: column;">
+      <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" style="max-width: 100%; max-height: 100%;">
+      </div>
+      <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs" style="max-width: 100%;">
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 
