@@ -75,6 +75,7 @@
   <div style="flex: 1;">
     <h2 align="center">SUMMARY:</h2>
   </div>
+<div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,prs,contribs" alt="Stats">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -82,6 +83,7 @@
     </a>
   </div>
 </div>
+
 
 
 </body>
