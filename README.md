@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h3 align="center">
-      Hi there 👋
-  </h3>
+  <h2 align="center">
+      HI THERE 👋
+  </h2>
   <div>
     <blockquote>
       <h3 align="left">
