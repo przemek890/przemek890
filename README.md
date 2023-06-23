@@ -74,18 +74,19 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
-    <div style="display: flex; flex-direction: column;">
+    <div style="display: flex;">
       <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" style="max-width: 100%; max-height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" style="max-height: 100vh; width: auto;">
       </div>
-      <div>
+      <div style="flex: 1;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs" style="max-width: 100%;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs" style="max-height: 100vh; width: auto;">
         </a>
       </div>
     </div>
   </div>
 </div>
+
 
 
 </body>
