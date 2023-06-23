@@ -73,7 +73,7 @@
   </p>
 
   <div style="flex: 1;">
-    <h2 align="left">SUMMARY:</h2>
+    <h2 align="center">SUMMARY:</h2>
   </div>
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,prs,contribs" alt="Stats">
