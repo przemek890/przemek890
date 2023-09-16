@@ -17,7 +17,7 @@
     <blockquote>
       <h3 align="left">
         📄 :
-        <a href="https://github.com/przemek890/przemek890/blob/main/Przemys%C5%82aw_Janiszewski_CV.pdf">
+        <a href="https://github.com/przemek890/przemek890/blob/main/Przemyslaw_Janiszewski_CV.pdf">
           CV
         </a>
       </h3>
