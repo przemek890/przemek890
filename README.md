@@ -51,6 +51,12 @@
     <a href="https://www.pygame.org"><img src="https://www.pygame.org/docs/_static/pygame_lofi.png" alt="Pygame" width="120" height="40"/></a>
     <a href="https://www.sfml-dev.org/"><img src="https://www.sfml-dev.org/download/goodies/sfml-icon-small.png" alt="SFML" width="40" height="40"/></a>
     <a href="https://www.opengl.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/512px-OpenGL_logo.svg.png" alt="OpenGL" width="80" height="40"/></a>
+    <a href="https://pytorch.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch" width="80" height="40"/></a>
+    <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" alt="keras" width="40" height="40"/></a>
+    <a href="https://opencv.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/974px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" width="40" height="40"/></a>
+        <a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="60" height="40"/></a>
+
+    
   </p>
 
   <h4>Tools:</h4>
@@ -69,6 +75,7 @@
     <a href="https://www.microsoft.com/pl-pl/microsoft-365"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/512px-Microsoft_365_%282022%29.svg.png" alt="Office 365" width="40" height="40"/></a>
     <a href="https://www.gimp.org/"><img src="https://img.icons8.com/color/512/gimp.png" alt="GIMP" width="40" height="40"/></a>
     <a href="https://chat.openai.com/"><img src="https://img.icons8.com/nolan/512/chatgpt.png" alt="ChatGPT" width="40" height="40"/></a>
+    <a href="https://bard.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Bard_logo.svg/1200px-Google_Bard_logo.svg.png" alt="Google Bard" width="40" height="40"/></a>
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
   </p>
 
