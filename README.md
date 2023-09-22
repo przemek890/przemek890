@@ -77,7 +77,7 @@
     <a href="https://chat.openai.com/"><img src="https://img.icons8.com/nolan/512/chatgpt.png" alt="ChatGPT" width="40" height="40"/></a>
     <a href="https://bard.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Bard_logo.svg/1200px-Google_Bard_logo.svg.png" alt="Google Bard" width="40" height="40"/></a>
     <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
-    <a href="https://www.winehq.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/1280px-WINE-logo.svg.png" alt="ChatGPT" width="42" height="66"/></a>
+    <a href="https://www.winehq.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/1280px-WINE-logo.svg.png" alt="ChatGPT" width="30" height="40"/></a>
   </p>
 
 <div style="flex: 1;">
