@@ -5,12 +5,6 @@
             <span align="center">
                 <h2>HI THERE 👋</h2>
             </span>
-            <style>
-                .summary {
-                    display: flex;
-                    justify-content: center;
-                 }
-            </style>
         </head>
         <h4>Contact:</h4>
         <section>
