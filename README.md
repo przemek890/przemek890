@@ -70,17 +70,15 @@
             <a href="https://www.winehq.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/1280px-WINE-logo.svg.png" alt="ChatGPT" width="30" height="40"/></a>
         </section>
         <h2 align="center">SUMMARY:</h2>
-        <section class="summary">
-            <span>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
+        <section>
+            <div style="display: flex; justify-content: center;">
+                <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
                     <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" width>
                 </a>
-            </span>
-            <span>
-                <a href="https://github.com/anuraghazra/github-readme-stats">
+                <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs">
                 </a>
-            </span>
+            </div>
         </section>
     </body>
 </html>
