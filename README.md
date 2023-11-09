@@ -76,7 +76,7 @@
                     <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" width>
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake&theme=holi" alt="Top Langs">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=holi" alt="Top Langs">
                 </a>
             </div>
         </section>
