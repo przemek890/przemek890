@@ -80,15 +80,15 @@
         <section>
             <div style="display: flex; justify-content: center;">  
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=transparent" alt="Top Langs">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=transparent" alt="Top Langs" style="width: 45%;>
                 </a>
             </div>
             <div style="display: flex; justify-content: center;">  
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&" alt="Stats" style="width: 50%; height: auto;">
+                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&" alt="Stats" style="width: 45%; height: auto;">
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent" alt="streak" style="width: 50%; height: auto;">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent" alt="streak" style="width: 45%; height: auto;">
                 </a>
             </div>
         </section>
