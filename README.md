@@ -80,10 +80,15 @@
         <section>
             <div style="display: flex; justify-content: center;">
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=holi&hide=issues,prs,contribs" alt="Stats" width>
+                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&hide=issues,prs,contribs" alt="Stats" width>
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=holi" alt="Top Langs">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=transparent" alt="Top Langs">
+                </a>
+            </div>
+            <div style="display: flex; justify-content: center;">  
+                <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent" alt="streak">
                 </a>
             </div>
         </section>
