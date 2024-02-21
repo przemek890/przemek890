@@ -18,6 +18,9 @@
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Familiarity:</h4>
         <section>
+            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+            width="36" />
             <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="Python" width="40" height="40"/></a>
             <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
             <a href="https://www.learn-c.org/"><img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/></a>
