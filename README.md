@@ -18,12 +18,9 @@
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Familiarity:</h4>
         <section>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <kbd> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-            width="36" />
-            <a href="https://www.python.org/"><img src="https://img.icons8.com/color/512/python.png" alt="Python" width="40" height="40"/></a>
-            <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
-            <a href="https://www.learn-c.org/"><img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/></a>
+            <a href="https://www.python.org/" target="_blank" rel="noreferrer">  <kbd> <img src="https://img.icons8.com/color/512/python.png" alt="Python" width="40" height="40"/>
+            <a href="https://isocpp.org/" target="_blank" rel="noreferrer">  <kbd> <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+            <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">  <kbd> <img src="https://img.icons8.com/color/512/c-programming.png" alt="C" width="40" height="40"/>
             <a href="https://developer.apple.com/swift/"><img src="https://img.icons8.com/color/512/swift.png" alt="Swift" width="40" height="40"/></a>
             <a href="https://www.java.com/pl/"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" width="60" height="40"/></a>
             <a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="40"/></a>
