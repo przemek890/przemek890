@@ -78,17 +78,17 @@
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h2 align="center">SUMMARY:</h2>
         <section>
-            <div style="display: flex; justify-content: center;">  
+            <div>  
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=transparent" alt="Top Langs">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemek890&layout=compact&hide=cmake,jupyter%20notebook&theme=transparent" alt="Top Langs" width="200" height="100">
                 </a>
             </div>
-            <div style="display: flex; justify-content: center;">
+            <div>
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&" alt="Stats" width>
+                    <img src="https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent&" alt="Stats" width="200" height="100" >
                 </a>
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
-                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent" alt="streak">
+                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent" alt="streak" width="200" height="100">
                 </a>
             </div>
         </section>
