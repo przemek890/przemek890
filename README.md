@@ -53,6 +53,7 @@
             <a href="https://developer.apple.com/xcode/swiftui/"target="_blank" rel="noreferrer">  <kbd><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/></a>
             <a href="https://www.open-mpi.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="OpenMPI" width="40" height="40"/></a>
             <a href="https://www.openmp.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OpenMP_logo.png/640px-OpenMP_logo.png" alt="OpenMP" width="80" height="30"/></a>
+            <a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" alt="OpenMP" width="30" height="30"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Tools:</h4>
