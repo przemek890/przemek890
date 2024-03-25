@@ -35,6 +35,7 @@
             <a href="https://www.typescriptlang.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" width="35" height=35"/></a>
             <a href="https://cmake.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/480px-Cmake.svg.png" alt="CMake" width="40" height="40"/></a>
             <a href="https://www.gnu.org/software/bash/"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/bash.png" alt="Bash" width="40" height="40"/></a>
+            <a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" alt="OpenMP" width="30" height="30"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Frameworks and Libraries:</h4>
@@ -53,7 +54,7 @@
             <a href="https://developer.apple.com/xcode/swiftui/"target="_blank" rel="noreferrer">  <kbd><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/></a>
             <a href="https://www.open-mpi.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://www.open-mpi.org/images/open-mpi-logo.png" alt="OpenMPI" width="40" height="40"/></a>
             <a href="https://www.openmp.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OpenMP_logo.png/640px-OpenMP_logo.png" alt="OpenMP" width="80" height="30"/></a>
-            <a href="https://www.mathworks.com/products/matlab.html" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" alt="OpenMP" width="30" height="30"/></a>
+            <a href="https://react.dev/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="46" height="40"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Tools:</h4>
@@ -75,6 +76,7 @@
             <a href="https://bard.google.com/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Bard_logo.svg/1200px-Google_Bard_logo.svg.png" alt="Google Bard" width="40" height="40"/></a>
             <a href="https://git-scm.com"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
             <a href="https://www.winehq.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/1280px-WINE-logo.svg.png" alt="ChatGPT" width="30" height="40"/></a>
+            <a href="https://www.jenkins.io/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" alt="Jenkins" width="120" height="40"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h2>SUMMARY:</h2>
@@ -90,4 +92,6 @@
         </section>
     </body>
 </html>
+
+
 
