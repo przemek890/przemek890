@@ -77,6 +77,7 @@
             <a href="https://git-scm.com"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/48/git.png" alt="ChatGPT" width="40" height="40"/></a>
             <a href="https://www.winehq.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WINE-logo.svg/1280px-WINE-logo.svg.png" alt="ChatGPT" width="30" height="40"/></a>
             <a href="https://www.jenkins.io/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" alt="Jenkins" width="120" height="40"/></a>
+            <a href="https://www.visual-paradigm.com/"_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" alt="VP" width="120" height="40"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h2>SUMMARY:</h2>
