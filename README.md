@@ -79,7 +79,7 @@
             <a href="https://www.jenkins.io/"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" alt="Jenkins" width="120" height="40"/></a>
             <a href="https://www.visual-paradigm.com/"_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Visual_Paradigm_logo.png" alt="VP" width="120" height="40"/></a>
             <a href="https://kubernetes.io/"_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="VP" width="40" height="40"/></a>
-            <a href="https://www.xquartz.org/"_blank" rel="noreferrer">  <kbd><img src="https://static.macupdate.com/products/26593/l/xquartz-logo.png" alt="VP" width="40" height="40"/></a>
+            <a href="https://www.xquartz.org/"_blank" rel="noreferrer">  <kbd><img src="https://img.informer.com/icons_mac/png/128/507/507678.png" alt="VP" width="40" height="40"/></a>
         </section>
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h2>SUMMARY:</h2>
