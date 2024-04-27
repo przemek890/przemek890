@@ -64,8 +64,8 @@
                     <kbd>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="MacOS" width="40" height="40"/>
                     </kbd>
+                    <span style="position: absolute; top: 0; right: 0; color: red; font-size: 20px;">❤️</span>
                 </a>
-                <span style="position: absolute; top: 0; right: 0; color: red; font-size: 20px;">❤️</span>
             </div>
             <a href="https://www.microsoft.com/en-us/windows/get-windows-11" target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/windows-11.png" alt="MS Windows" width="40" height="40"/></a>
             <a href="https://www.linux.org"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/></a>
