@@ -59,9 +59,11 @@
         <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
         <h4>Tools:</h4>
         <section>
-            <a href="https://www.apple.com"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/officel/512/mac-os.png" alt="MacOS" width="40" height="40"/></a>
+            <a href="https://support.apple.com/macos"target="_blank" rel="noreferrer">  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="MacOS" width="40" height="40"/></a>
+            <a href="https://www.microsoft.com/en-us/windows/get-windows-11" target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/windows-11.png" alt="MS Windows" width="40" height="40"/></a>
             <a href="https://www.linux.org"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/linux--v1.png" alt="LINUX" width="40" height="40"/></a>
-            <a href="https://www.microsoft.com/en-us/windows/get-windows-11"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/windows-11.png" alt="MS Windows" width="40" height="40"/></a>
+            <a href="https://www.apple.com"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/officel/512/mac-os.png" alt="iOS" width="40" height="40"/></a>
+            <a href="https://www.android.com"target="_blank" rel="noreferrer">  <kbd><img src="https://www.freeiconspng.com/thumbs/android-icon/android-icon-png-1.png" alt="Android" width="40" height="40"/></a>
             <a href="https://jupyter.org/"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/fluency/512/jupyter.png" alt="Jupyter" width="40" height="40"/></a>
             <a href="https://aws.amazon.com/"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/></a>
             <a href="https://www.docker.com/"target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/docker.png" alt="DOCKER" width="40" height="40"/></a>
