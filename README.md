@@ -61,8 +61,7 @@
         <section>
             <a href="https://support.apple.com/macos" target="_blank" rel="noreferrer">
                 <kbd style="position: relative;">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="MacOS" width="40" height="40" style="position: relative; z-index: 1;"/>
-                    <span style="position: absolute; top: 0; right: 0; color: red; font-size: 20px; z-index: 2;">❤️</span>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" alt="MacOS" width="40" height="40"/>
                 </kbd>
             </a>
             <a href="https://www.microsoft.com/en-us/windows/get-windows-11" target="_blank" rel="noreferrer">  <kbd><img src="https://img.icons8.com/color/512/windows-11.png" alt="MS Windows" width="40" height="40"/></a>
