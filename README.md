@@ -11,5 +11,4 @@
 
 ### GitHub Stats:  
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=przemek890&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=przemek890&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
