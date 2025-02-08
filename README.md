@@ -1,7 +1,5 @@
 ## HI THERE 👋  
 
----
-
 ### Contact:  
 
 > ### ✉️ : [przemek.899@wp.pl](mailto:przemek.899@wp.pl)  
