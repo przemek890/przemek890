@@ -14,7 +14,6 @@
             <blockquote>
                 <h3>📄 : <a href="https://github.com/przemek890/przemek890/blob/main/Przemyslaw_Janiszewski_CV.pdf">CV</a></h3>
             </blockquote>
-        <h2>SUMMARY:</h2>
         <section>
             <div style="display: flex;">  
                 <a href="https://github.com/anuraghazra/github-readme-stats" style="padding: 5px">
