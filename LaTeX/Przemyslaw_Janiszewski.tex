@@ -1,0 +1,202 @@
+\documentclass[10pt,a4paper,withhyper]{altacv}
+
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+\usepackage{paracol}
+
+\usepackage{enumitem}
+\usepackage{ragged2e}
+
+
+\iftutex
+  \setmainfont{Roboto Slab}
+  \setsansfont{Lato}
+  \renewcommand{\familydefault}{\sfdefault}
+\else
+  \usepackage[rm]{roboto}
+  \usepackage[defaultsans]{lato}
+  \renewcommand{\familydefault}{\sfdefault}
+\fi
+
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\definecolor{DarkPastelRed}{HTML}{450808}
+\definecolor{PastelRed}{HTML}{8F0D0D}
+\definecolor{GoldenEarth}{HTML}{E7D192}
+\colorlet{name}{black}
+\colorlet{tagline}{PastelRed}
+\colorlet{heading}{DarkPastelRed}
+\colorlet{headingrule}{GoldenEarth}
+\colorlet{subheading}{PastelRed}
+\colorlet{accent}{PastelRed}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+\renewcommand{\personalinfofont}{\footnotesize}
+\renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+\renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+\renewcommand{\cvItemMarker}{{\small\textbullet}}
+\renewcommand{\cvRatingMarker}{\faCircle}
+
+\begin{document}
+\name{Przemysław Janiszewski}
+\tagline{Software Developer}
+\photoR{2.8cm}{images/przemekjan.png}
+
+\personalinfo{%
+  \email{przemek.899@wp.pl}
+  \phone{797068415}
+  \location{Kraków, POLAND}
+  \linkedin{https://www.linkedin.com/in/prze
+myslaw-janiszewski-461007277}
+  \github{https://github.com/przemek890}
+    \NewInfoField{driverslicense}{\faIdCard}
+    \driverslicense{Driver’s license (Class B)}
+}
+
+\makecvheader
+
+\columnratio{0.6}
+
+\begin{paracol}{2}
+\cvsection{Experience}
+
+\cvevent{Software Developer}{\raisebox{-0.3\height}{\includegraphics[height=1.5em]{images/nokia.png}}\ \href{https://www.nokia.com/}{Nokia}}{July 2024 -- Ongoing}{M. Bobrzyńskiego 46, Kraków}
+
+
+\justifying
+\begin{itemize}[nosep]
+    \item Developing a framework for automating telecommunications tests in Python
+    \item Creating an environment for tests visualization using React and FastAPI
+    \item Implementing CI/CD pipelines and deploying applications using Jenkins and Docker
+\end{itemize}
+
+
+\cvsection{Education}
+
+\cvevent{M.Sc.\ in Computer Science in Engineering}{\raisebox{-0.25\height}{\includegraphics[height=1.5em]{images/agh.png}}\ \href{https://www.agh.edu.pl/en/}{The AGH University of Krakow}}{02/2025 -- Ongoing}{}{{\raggedright\textbf{Thesis title:} Adaptive decision model based on dynamic data acquisition}}
+
+\divider
+
+\cvevent{B.Sc.\ in Computer Science in Engineering}{\raisebox{-0.25\height}{\includegraphics[height=1.5em]{images/agh.png}}\ \href{https://www.agh.edu.pl/en/}{The AGH University of Krakow}}{10/2021 -- 02/2025}{}{\textbf{Thesis title:} The Use of Neural Networks for Biomedical Signal Processing in the Assessment of Pathology Risk \\ \textbf{Thesis grade:} 5.0/5.0 \\ \textbf{GPA:} 4.94/5.0}
+
+\divider
+
+\cvevent{Advanced Math \& Physics Program}{\raisebox{-0.25\height}{\includegraphics[height=1.5em]{images/1lo.png}}\ \href{https://www.i-lo.tarnow.pl/}{Kazimierz Brodziński 1st High School}}{09/2018 -- 05/2021}{}{{\raggedright\textbf{Laureate:} Nationwide Golden Index competition in Mathematics at the Silesian University of Technology}}
+
+
+\cvsection{HOBBIES}
+
+\cvachievement{\faRunning}{Sport}{Active participation in various sports activities}
+
+\divider
+
+\cvachievement{\faBook}{Literature}{Reading and exploring different genres of literature}
+
+\divider
+
+\cvachievement{\faCompass}{Geocaching}{Exploring new locations through geocaching adventures}
+
+\divider
+
+\cvachievement{\faLightbulb}{Philosophy}{Studying philosophical works and reflecting on ideas}
+
+\newpage
+
+\cvsection{Languages}
+
+\cvskill{Polish (Native)}{5}
+\divider
+
+\cvskill{English (B2)}{3.5}
+\divider
+
+\cvskill{Spanish (A1)}{0.5}
+\divider
+
+\switchcolumn
+
+\cvsection{Projects}
+
+
+\cvevent{\href{https://rfperf-logview.soc.krk-lab.nsn-rdnet.net/}{Logview} {\footnotesize\textcolor{gray}{\textit{(Private)}}}}{Team project in Nokia RF Performance}{10/2022 -- ongoing}{}{Telecommunication test management, visualization, comparison, and reporting}
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/BetBuilder}{BetBuilder} {\footnotesize\textcolor{gray}{\textit{(Private)}}}}{AGH Master's thesis}{04/2024 - ongoing}{}{Identifying arbitrage opportunities on the Polish sports betting market}
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/GeoTrail}{GeoTrail}}{Personal use application}{06/2025 - 08/2025}{}{Supporting cache discovery and tracking on Geocaching trails.}
+
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/NeuroMed-Predict}{NeuroMed-Predict}}{AGH Bachelor's thesis}{02/2024 - 02/2025}{}{AI-powered medical screening and consultation system using neural network models and LLMs, operating in the cloud}
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/FEM-Optima}{FEM-Optima}}{AGH student project}{10/2023 - 02/2024}{}{FEM Wall Thermal Simulation}
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/Currencier}{Currencier}}{AGH student project}{10/2023 - 12/2023}{}{Application for Tracking the Forex Market}
+
+\divider
+
+\cvevent{\href{https://github.com/przemek890/Checkers}{Checkers}}{AGH student project}{10/2022 - 01/2023}{}{Checkers game application utilizing the min-max algorithm and the SFML library}
+
+
+
+\newpage
+
+\cvsection{CERTIFICATIONS}
+
+\cvachievement{\faFile}{Introduction to Deep Learning and Artificial Neural Networks}{Summer online course within POWER AGH program}
+
+\divider
+
+\cvachievement{\faFile}{ACERT English Certificate}{Level B2 proficiency}
+
+\end{paracol}
+
+\cvsection{Strengths}
+
+% Soft skills
+\cvtag{Hard-working}
+\cvtag{Eye for detail}
+\cvtag{Leader}
+\cvtag{Teamwork}
+\cvtag{Communication}
+\cvtag{Motivator}
+\cvtag{Problem Solving}
+\cvtag{Adaptability}
+\cvtag{Creativity}
+\cvtag{Analytical Thinking}
+
+\divider\smallskip
+
+% Hard skills
+\cvtag{Frontend}
+\cvtag{Backend}
+\cvtag{Data Science}
+\cvtag{ML / AI}
+\cvtag{DevOps}
+\cvtag{Automation}
+\cvtag{UI/UX}
+\cvtag{Simulation}
+\cvtag{Networking}
+\cvtag{Mobile}
+\cvtag{Cloud}
+\cvtag{Databases}
+
+\cvsection{DATA CONSENT}
+
+I hereby consent to the processing of my personal data included in this application for the purpose of the recruitment process in accordance with Article 6(1)(a) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+
+\vfill
+\hfill{\footnotesize Written in \LaTeX{} using Overleaf}
+
+\end{document}
